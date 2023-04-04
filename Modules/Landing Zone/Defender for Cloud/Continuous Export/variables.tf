@@ -32,7 +32,7 @@ variable "subscription_id_identity" {
   default = ""
 }
 variable "workspace_key" {
-  default = "
+  default = ""
 }
 variable "workspace_id" {
   default = ""
